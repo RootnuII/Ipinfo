@@ -63,6 +63,6 @@ Response
   "postal": "94035",
   "timezone": "America/Los_Angeles"
 }
-
+```
 License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) 
