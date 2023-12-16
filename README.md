@@ -52,6 +52,7 @@ In case of any errors during the lookup process, a 500 Internal Server Error res
 Examples
 curl http://localhost:3000/iplookup/8.8.8.8
 Response
+```json
 {
   "ip": "8.8.8.8",
   "hostname": "dns.google",
@@ -62,5 +63,6 @@ Response
   "postal": "94035",
   "timezone": "America/Los_Angeles"
 }
+
 License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) 
