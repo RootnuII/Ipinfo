@@ -11,7 +11,7 @@ Installation
 Clone this repository:
 
 
-git clone https://github.com/RootnuII/ip-lookup-api.git
+git clone https://github.com/RootnuII/Ipinfo.git
 
 Navigate to the project directory:
 cd ip-lookup-api
